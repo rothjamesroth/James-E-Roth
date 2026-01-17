@@ -1,2 +1,2 @@
-# James-E-Roth
-James' About Me
+# James E. Roth ◼ PE ◼ MBA
+
