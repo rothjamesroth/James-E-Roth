@@ -3,13 +3,13 @@ layout: home
 title: James E. Roth ◽ PE ◽ MBA
 ---
 
-My Purpose
+## My Purpose
 
 Unlocking potential. Turning intention into meaningful achievement.
 
 ---
 
-Execution
+## Execution
 
 Designing and implementing strategies rooted in deep technical expertise, creating sustainable impact, and guiding teams and stakeholders with a people-first approach and transformational leadership inspiring exceptional results.
 
@@ -17,7 +17,7 @@ Designing and implementing strategies rooted in deep technical expertise, creati
 
 ## About Me
 
-My background is in aerospace engineering and business leadership I enjoy solving complex challenges, using technical expertise to bridge markets to the right products. 
+My background is in aerospace engineering and business leadership. I enjoy solving complex challenges, using technical expertise to bridge markets to the right products. 
 
 ---
 
