@@ -8,7 +8,6 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
-  <!-- Global Styles -->
   <style>
     /* Smooth scroll */
     html {
@@ -18,9 +17,9 @@
     /* Page layout */
     body {
       margin: 0;
-      padding: 0 20px;          /* Space on left/right */
-      max-width: 1000px;        /* Keep content readable on large screens */
-      margin-left: auto;        /* Center content horizontally */
+      padding: 0 20px;
+      max-width: 1000px;
+      margin-left: auto;
       margin-right: auto;
       font-family: 'Roboto', sans-serif;
       line-height: 1.6;
@@ -74,8 +73,8 @@
       list-style: none;
       padding: 0;
       margin: 0;
-      display: inline-flex;    /* Align links in a row */
-      gap: 30px;               /* Space between links */
+      display: inline-flex;
+      gap: 30px;
     }
     nav li {
       display: inline;
@@ -96,3 +95,25 @@
       margin-bottom: 10px;
       border: 1px solid #ccc;
       border-radius: 5px;
+      font-family: 'Roboto', sans-serif;
+      font-size: 1em;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation bar -->
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="case-study-1.html">Case Study 1</a></li>
+      <li><a href="case-study-2.html">Case Study 2</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Page content -->
+  {{ content }}
+
+</body>
+</html>
