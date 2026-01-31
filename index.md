@@ -28,7 +28,7 @@ Designing and implementing strategies rooted in deep technical expertise, creati
 
 ## About Me
 
-I enjoy solving complex challenges, using technical expertise to bridge the gap between business strategy and technical execution. 
+I enjoy solving complex challenges, using technical expertise and business acumen to bridge the gap between business strategy and technical execution. 
 
 ---
 
