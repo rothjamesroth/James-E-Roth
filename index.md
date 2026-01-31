@@ -60,19 +60,16 @@ My background is in aerospace engineering and business leadership. I enjoy solvi
     Have a question, opportunity, or just want to connect? Reach out below.
   </p>
 
-  <p style="text-align: center; font-size: 1.1em; margin-bottom: 5px;">
-    Email: <a href="mailto:jeroth21@gmail.com" style="color:#1a73e8; text-decoration:none;">jeroth21@gmail.com</a>
-  </p>
-
   <p style="text-align: center; font-size: 1.1em; margin-bottom: 20px;">
+    Email: <a href="mailto:jeroth21@gmail.com" style="color:#1a73e8; text-decoration:none;">jeroth21@gmail.com</a><br>
     LinkedIn: <a href="https://www.linkedin.com/in/james-e-roth-mba-pe-18945516a/" target="_blank" style="color:#1a73e8; text-decoration:none;">linkedin.com/in/james-e-roth-18945516a/</a>
   </p>
 
-  <!-- Optional Contact Form -->
-  <form style="max-width: 500px; margin: 0 auto;">
-    <input type="text" placeholder="Your Name" name="name" required style="width:100%; padding:10px; margin-bottom:10px;">
-    <input type="email" placeholder="Your Email" name="email" required style="width:100%; padding:10px; margin-bottom:10px;">
-    <textarea placeholder="Message" name="message" rows="5" required style="width:100%; padding:10px; margin-bottom:10px;"></textarea>
+  <!-- Form using Formspree -->
+  <form action="https://formspree.io/f/mwvbdjoy" method="POST" style="max-width: 500px; margin: 0 auto;">
+    <input type="text" name="name" placeholder="Your Name" required style="width:100%; padding:10px; margin-bottom:10px;">
+    <input type="email" name="email" placeholder="Your Email" required style="width:100%; padding:10px; margin-bottom:10px;">
+    <textarea name="message" placeholder="Message" rows="5" required style="width:100%; padding:10px; margin-bottom:10px;"></textarea>
     <button type="submit" style="padding:10px 20px; background-color:#1a73e8; color:white; border:none; cursor:pointer;">Send</button>
   </form>
 </section>
