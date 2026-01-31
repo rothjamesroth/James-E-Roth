@@ -1,3 +1,7 @@
+---
+layout: home
+title: "Technical Accomplishments — James E. Roth | PE | MBA"
+---
 # ⭐ Case Study: Building a Customer-Focused Engineering Support Center That Reduced Disposition Turnaround Time by 33%
 
 ## Overview
