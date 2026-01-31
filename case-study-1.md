@@ -3,8 +3,6 @@ layout: home
 title: "Leadership — James E. Roth | PE | MBA"
 ---
 
-<section>
-
 # ⭐ Case Study: Building a Customer-Focused Engineering Support Center That Reduced Disposition Turnaround Time by 33%
 
 ## Overview
@@ -27,22 +25,22 @@ In 2018, I was part of a team that won back-to-back NCAA Division III National C
 
 ## The Challenge
 
-• Average non-conformance disposition turnaround time (TAT): 60 days  
-• Backlog of components awaiting engineering disposition: approximately 120 parts  
-• Engineering decisions were largely experience-driven rather than strategy-driven  
-• Inconsistent inspection rejection criteria created unnecessary engineering workload  
-• Rework existed across inspection, engineering, and technical reporting processes  
-• Limited data visibility prevented proactive performance management  
-• Engineering decisions were not consistently aligned with customer or business strategy  
+- Average non-conformance disposition turnaround time (TAT): 60 days
+- Backlog of components awaiting engineering disposition: approximately 120 parts
+- Engineering decisions were largely experience-driven rather than strategy-driven
+- Inconsistent inspection rejection criteria created unnecessary engineering workload
+- Rework existed across inspection, engineering, and technical reporting processes
+- Limited data visibility prevented proactive performance management
+- Engineering decisions were not consistently aligned with customer or business strategy
 
 ---
 
 ## Strategic Approach
 
-1. Safety, ethics, and regulatory compliance as non-negotiable foundations  
-2. Alignment of engineering decisions with customer and competitive strategy  
-3. Transition from knowledge-based decision making to data-driven systems  
-4. Empowerment of engineers through clear expectations, accountability, and ownership  
+1. Safety, ethics, and regulatory compliance as non-negotiable foundations
+2. Alignment of engineering decisions with customer and competitive strategy
+3. Transition from knowledge-based decision making to data-driven systems
+4. Empowerment of engineers through clear expectations, accountability, and ownership
 
 ---
 
@@ -50,19 +48,16 @@ In 2018, I was part of a team that won back-to-back NCAA Division III National C
 
 ### Operational Performance
 
-• Reduced disposition turnaround time from 60 days to 40 days (33% improvement)  
-• Reduced engineering reporting rework by approximately 25%  
-• Improved component yield and engineering resource efficiency  
+- Reduced disposition turnaround time from 60 days to 40 days (33% improvement)
+- Reduced engineering reporting rework by approximately 25%
+- Improved component yield and engineering resource efficiency
 
 ---
 
 ## Leadership Lessons
 
-• Empowered team members make faster, higher-quality decisions  
-• Technical excellence must align with business strategy  
-• Data visibility transforms organizational performance  
-• Culture and trust act as force multipliers  
-• Leadership growth requires humility and self-reflection  
-
-</section>
-
+- Empowered team members make faster, higher-quality decisions
+- Technical excellence must align with business strategy
+- Data visibility transforms organizational performance
+- Culture and trust act as force multipliers
+- Leadership growth requires humility and self-reflection
