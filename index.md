@@ -10,7 +10,7 @@ html {
 }
 </style>
 
-# James E. Roth ◽ PE ◽ MBA
+# James E. Roth | PE | MBA
 
 ---
 
