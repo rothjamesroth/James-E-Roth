@@ -28,7 +28,7 @@ Unlocking potential. Turning intention into meaningful achievement.
 
 ## Execution
 
-Designing and implementing strategies rooted in deep technical expertise, creating sustainable impact, and guiding teams and stakeholders with a people-first approach and transformational leadership inspiring exceptional results.
+I bring purpose to action by combining deep technical expertise with situational leadership and a people-first mindset. This allows me to guide projects, solve complex challenges, and empower teams to deliver sustainable and exceptional results. 
 
 ---
 
