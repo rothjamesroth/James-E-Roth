@@ -14,7 +14,7 @@ html {
 
 ---
 
-## My Purpose
+## Professional Purpose
 
 Unlocking potential. Turning intention into meaningful achievement.
 
@@ -28,24 +28,32 @@ Designing and implementing strategies rooted in deep technical expertise, creati
 
 ## About Me
 
-My background is in aerospace engineering and business leadership. I enjoy solving complex challenges, using technical expertise to bridge markets to the right products. 
+I enjoy solving complex challenges, using technical expertise to bridge the gap between business strategy and technical execution. 
 
 ---
 
 ## Skills & Expertise
 
 - Mechanical Engineering & Design  
-- Project Management & Leadership  
+- Team and Project Leadership  
 - Business Strategy & Analytics
-- Market Strategy and Execution
 - Technical Problem Solving & Process Improvement  
 
 ---
 
-## Projects & Highlights
+## Skills and Expertise
 
-- Led aerospace projects optimizing turbine component repairs for customer needs  
-- Led an engineering department, developing associates and processes, to go from backlogged with high turnover, to a thriving, customer focused organization with excellent service     
+I bring a balanced combination of technical depth, strategic thinking, and leadership execution developed through solving complex engineering and operational challenges.
+
+My work demonstrates the ability to translate high-level objectives into practical, measurable results while maintaining strong collaboration across engineering, manufacturing, and business stakeholders.
+
+### Leadership
+My leadership experience highlights my ability to build alignment, empower teams, and drive sustainable organizational improvements.  
+👉 [View Leadership Case Study](case-study-1.html)
+
+### Technical Accomplishments
+My technical background reflects strong engineering judgment, deep understanding of manufacturing and design principles, and a proven track record of continuous improvement and risk mitigation in high stakes and demanding environments.  
+👉 [View Technical Accomplishments Case Study](case-study-2.html)
 
 ---
 
