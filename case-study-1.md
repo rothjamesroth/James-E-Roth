@@ -2,7 +2,7 @@
 layout: home
 title: "Technical Accomplishments — James E. Roth | PE | MBA"
 ---
-# ⭐ Case Study: Building a Customer-Focused Engineering Support Center That Reduced Disposition Turnaround Time by 33%
+# Case Study: Building a Customer-Focused Engineering Support Center That Reduced Disposition Turnaround Time by 33%
 
 ## Overview
 I was tasked with building and leading an Engineering Customer Support Center (CSC) focused on resolving aerospace component non-conformances. The directive from executive leadership was simple but ambitious:
