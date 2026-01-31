@@ -1,3 +1,4 @@
+[Home](index.html) | [Case Study 1](case-study-1.html) | [Contact](contact.html)
 ---
 layout: home
 title: James E. Roth ◽ PE ◽ MBA
