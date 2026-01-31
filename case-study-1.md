@@ -1,63 +1,178 @@
----
-layout: home
-title: "Leadership — James E. Roth | PE | MBA"
----
-
 # ⭐ Case Study: Building a Customer-Focused Engineering Support Center That Reduced Disposition Turnaround Time by 33%
 
 ## Overview
-
 I was tasked with building and leading an Engineering Customer Support Center (CSC) focused on resolving aerospace component non-conformances. The directive from executive leadership was simple but ambitious:
 
-**“Work yourself out of a job — build a system that sustains itself and elevates the business.”**
+“Work yourself out of a job — build a system that sustains itself and elevates the business.”
 
 The initiative required not only technical problem solving but also organizational transformation. Success required aligning engineering decision-making with customer expectations, competitive strategy, and operational performance while maintaining strict safety and regulatory compliance.
 
 ---
 
 ## Early Leadership and Personal Growth
+during my time as a student-athlete on the University of Mount Union Track and Field team. In 2018, I was part of a team that won back-to-back NCAA Division III National Championships, an experience that fundamentally shaped my understanding of leadership and team performance.
 
-During my time as a student-athlete on the University of Mount Union Track and Field team...
+Our team entered both championship meets as unlikely contenders, qualifying fewer athletes than competing programs. Rather than relying on individual performance alone, our success was built on trust in our training program, accountability to one another, and a collective commitment to excellence. I embraced a leadership role by setting performance expectations through example, reinforcing belief in our preparation, and encouraging teammates to perform at their highest potential under pressure.
 
-In 2018, I was part of a team that won back-to-back NCAA Division III National Championships...
+Every athlete on our team placed within the top four of their respective events, ultimately allowing us to secure the team championship in dramatic fashion during the final event, the 4x400-meter relay. I was a member of that relay team, and together we set both meet and school records, which stood until the succeeding Mount Union relay team later surpassed them.
+
+This experience provided my first real understanding of what a high-performing culture looks like. I learned that sustained success is rarely the result of individual talent alone, but rather the product of shared purpose, disciplined execution, and trust in both the process and the team. That foundational lesson continues to influence how I build, lead, and empower teams today.
+
+When I first stepped into a professional leadership role, I initially modeled my management style after what I had observed throughout the organization and what I knew from my past. I focused heavily on control, immediate-performance expectations, and direct oversight.
+
+This approach produced unintended consequences:
+
+• I micro-managed team execution  
+• Engineers felt uncertain about their value and decision authority  
+• Cross-functional teams found collaboration difficult due to my urgency-driven expectations  
+• My team’s output quality and consistency suffered  
+• I was working excessive hours trying to personally control outcomes  
+• Rework remained high despite increased effort  
+
+I saw that I needed to adapt my leadership approach. The turning point came when one of my top employees chose to leave the team. That moment forced me to step back and conduct a candid self-assessment of my leadership approach.
+
+I took full ownership of the situation and committed to rebuilding the team environment intentionally. Drawing on leadership principles from my MBA education and research into high-performing organizations, I shifted toward an empowerment-driven, leader-leader model focused on clarity, accountability, and shared ownership of outcomes.
+
+While I regret that the catalyst for change involved losing a valued team member, I am proud of the transformation that followed and the sustainable, engaged organization that emerged as a result.
+
+This leadership evolution became foundational to the technical and operational success of the CSC.
 
 ---
 
 ## The Challenge
+At the time of the CSC’s formation, the organization faced several systemic performance barriers:
 
-- Average non-conformance disposition turnaround time (TAT): 60 days
-- Backlog of components awaiting engineering disposition: approximately 120 parts
-- Engineering decisions were largely experience-driven rather than strategy-driven
-- Inconsistent inspection rejection criteria created unnecessary engineering workload
-- Rework existed across inspection, engineering, and technical reporting processes
-- Limited data visibility prevented proactive performance management
-- Engineering decisions were not consistently aligned with customer or business strategy
+• Average non-conformance disposition turnaround time (TAT): 60 days  
+• Backlog of components awaiting engineering disposition: approximately 120 parts  
+• Engineering decisions were largely experience-driven rather than strategy-driven  
+• Inconsistent inspection rejection criteria created unnecessary engineering workload  
+• Rework existed across inspection, engineering, and technical reporting processes  
+• Limited data visibility prevented proactive performance management  
+• Engineering decisions were not consistently aligned with customer or business strategy  
+
+Although a scrap rate of approximately 10% was typical for aerospace MRO, opportunities existed to improve yield, efficiency, and customer responsiveness.
 
 ---
 
 ## Strategic Approach
+I reframed the CSC as both a technical and cultural transformation initiative guided by four core principles:
 
-1. Safety, ethics, and regulatory compliance as non-negotiable foundations
-2. Alignment of engineering decisions with customer and competitive strategy
-3. Transition from knowledge-based decision making to data-driven systems
-4. Empowerment of engineers through clear expectations, accountability, and ownership
+1. Safety, ethics, and regulatory compliance as non-negotiable foundations  
+2. Alignment of engineering decisions with customer and competitive strategy  
+3. Transition from knowledge-based decision making to data-driven systems  
+4. Empowerment of engineers through clear expectations, accountability, and ownership  
+
+---
+
+## Key Initiatives & Execution
+
+### Standardizing Inspection Escalation Criteria
+I partnered with inspection leadership and technical experts to:
+
+• Define consistent escalation criteria for legitimate non-conformance findings  
+• Identify minor, repeatable conditions that did not require rejection  
+• Align inspection and engineering practices with customer expectations and industry standards  
+
+#### Impact
+• Reduced unnecessary engineering workload  
+• Improved inspection efficiency and consistency  
+• Increased customer confidence in inspection and engineering reliability  
+
+---
+
+### Designing Customer-Segmented Disposition Strategies
+I collaborated with sales leadership, executive management, and customers to:
+
+• Define customer-specific service priorities  
+• Develop disposition decision frameworks aligned with turnaround time, yield, and service expectations  
+• Establish clear guidance for Material Review Board escalation  
+
+This work directly connected engineering decisions to competitive business outcomes.
+
+---
+
+### Rebuilding Technical Reporting Standards
+I modernized the organization’s non-conformance technical reporting procedure to:
+
+• Standardize documentation methods and reduce redundancy through technical innovation wit the support of the IT team  
+• Improve clarity and consistency in customer and OEM communication  
+• Reduce engineering report rework by focusing on customer requirements  
+
+#### Result
+• Reduced reporting rework by approximately 25%  
+• Reporting approach became internally and externally recognized as an industry “gold standard”  
+
+---
+
+### Implementing Data-Driven Engineering Strategy Using Six Sigma Controls
+To replace reactive decision-making, I developed statistical monitoring tools including:
+
+• Process control charts across major product programs (6 sigma framework)  
+• Trend analysis for non-conformance rates and process drift  
+• Early detection of emerging reliability and product issues  
+
+#### Impact
+• Enabled proactive engineering strategy adjustments  
+• Strengthened collaboration with OEM engineering organizations  
+• Influenced repair development inclusion into engine manuals  
+• Reduced long-term disposition turnaround time  
+
+---
+
+### Continuous Improvement: Creating Engineering Knowledge Acceleration Tools
+To eliminate repetitive research across similar non-conformance cases, I developed:
+
+• Engineering “History Documents” summarizing prior approvals, technical risk factors, and likely outcomes  
+• Quick-reference decision tools that improved disposition speed and quality  
+• Inspection guidance to avoid unnecessary labor investment in parts likely to be scrapped  
+
+---
+
+## Organizational Leadership and Team Development
+Following my leadership transformation, I rebuilt the CSC engineering team around empowerment and ownership principles.
+
+I hired, trained, and developed a team of eight engineers while implementing:
+
+• Clear decision-making frameworks enabling independent engineering judgment  
+• KPI dashboards providing real-time performance transparency  
+• Structured escalation pathways for complex or high-risk decisions  
+• Cultural emphasis on accountability, communication, and purpose-driven engineering  
+
+The team developed strong engagement, consistent technical performance, and high alignment with customer and business priorities.
 
 ---
 
 ## Results
 
 ### Operational Performance
+• Reduced non-conformance disposition turnaround time from 60 days to 40 days (33% improvement)  
+• Reduced engineering reporting rework by approximately 25%  
+• Reduced unnecessary inspection investment and escalations  
+• Improved component yield and engineering resource efficiency  
+• Enabled robust identification of problematic product lines using statistical monitoring  
 
-- Reduced disposition turnaround time from 60 days to 40 days (33% improvement)
-- Reduced engineering reporting rework by approximately 25%
-- Improved component yield and engineering resource efficiency
+---
+
+### Business & Customer Impact
+• Strengthened customer trust and relationship stability  
+• Increased competitive differentiation through improved service responsiveness  
+• Influenced OEM repair development strategy  
+• Improved alignment between engineering execution and business objectives  
+
+---
+
+### Organizational Impact
+• Established a scalable and sustainable engineering support model  
+• Significantly improved engineering team engagement and job satisfaction  
+• Strengthened cross-functional collaboration across inspection, engineering, sales, and executive leadership  
 
 ---
 
 ## Leadership Lessons
+This initiative reinforced several core leadership beliefs:
 
-- Empowered team members make faster, higher-quality decisions
-- Technical excellence must align with business strategy
-- Data visibility transforms organizational performance
-- Culture and trust act as force multipliers
-- Leadership growth requires humility and self-reflection
+• Empowered team members to make faster, higher-quality, and more accountable decisions  
+• Technical excellence must align with customer and business strategy  
+• Data visibility transforms organizational performance  
+• Culture, clarity, and trust act as force multipliers within engineering organizations  
+• Leadership growth requires self-reflection, humility, and willingness to change  
