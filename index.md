@@ -12,8 +12,6 @@ html {
 
 # James E. Roth ◽ PE ◽ MBA
 
-[Home](index.html) | [Case Study 1](case-study-1.html) | [Case Study 2](case-study-2.html) | [Contact](#contact)
-
 ---
 
 ## My Purpose
