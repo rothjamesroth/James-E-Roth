@@ -1,6 +1,7 @@
 ---
 layout: home
 title: James E. Roth ◽ PE ◽ MBA
+permalink: /index.html
 ---
 
 <style>
