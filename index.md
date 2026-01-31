@@ -1,6 +1,6 @@
 ---
 layout: home
-title: James E. Roth ◽ PE ◽ MBA
+title: James E. Roth | PE | MBA
 permalink: /
 ---
 
