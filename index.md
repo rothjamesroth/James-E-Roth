@@ -65,7 +65,7 @@ My background is in aerospace engineering and business leadership. I enjoy solvi
   </p>
 
   <p style="text-align: center; font-size: 1.1em; margin-bottom: 20px;">
-    LinkedIn: <a href="https://linkedin.com/in/james-e-roth-18945516a/" target="_blank" style="color:#1a73e8; text-decoration:none;">linkedin.com/in/james-e-roth-18945516a/</a>
+    LinkedIn: <a href="https://www.linkedin.com/in/james-e-roth-mba-pe-18945516a/" target="_blank" style="color:#1a73e8; text-decoration:none;">linkedin.com/in/james-e-roth-18945516a/</a>
   </p>
 
   <!-- Optional Contact Form -->
