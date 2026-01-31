@@ -32,15 +32,6 @@ I enjoy solving complex challenges, using technical expertise to bridge the gap 
 
 ---
 
-## Skills & Expertise
-
-- Mechanical Engineering & Design  
-- Team and Project Leadership  
-- Business Strategy & Analytics
-- Technical Problem Solving & Process Improvement  
-
----
-
 ## Skills and Expertise
 
 I bring a balanced combination of technical depth, strategic thinking, and leadership execution developed through solving complex engineering and operational challenges.
