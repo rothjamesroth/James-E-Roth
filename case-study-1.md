@@ -14,7 +14,7 @@ The initiative required not only technical problem solving but also organization
 ---
 
 ## Early Leadership and Personal Growth
-during my time as a student-athlete on the University of Mount Union Track and Field team. In 2018, I was part of a team that won back-to-back NCAA Division III National Championships, an experience that fundamentally shaped my understanding of leadership and team performance.
+During my time as a student-athlete on the University of Mount Union Track and Field team. In 2018, I was part of a team that won back-to-back NCAA Division III National Championships, an experience that fundamentally shaped my understanding of leadership and team performance.
 
 Our team entered both championship meets as unlikely contenders, qualifying fewer athletes than competing programs. Rather than relying on individual performance alone, our success was built on trust in our training program, accountability to one another, and a collective commitment to excellence. I embraced a leadership role by setting performance expectations through example, reinforcing belief in our preparation, and encouraging teammates to perform at their highest potential under pressure.
 
@@ -98,7 +98,7 @@ This work directly connected engineering decisions to competitive business outco
 ### Rebuilding Technical Reporting Standards
 I modernized the organization’s non-conformance technical reporting procedure to:
 
-• Standardize documentation methods and reduce redundancy through technical innovation wit the support of the IT team  
+• Standardize documentation methods and reduce redundancy through technical innovation with the support of the IT team  
 • Improve clarity and consistency in customer and OEM communication  
 • Reduce engineering report rework by focusing on customer requirements  
 
