@@ -46,15 +46,15 @@ This leadership evolution became foundational to the technical and operational s
 ## The Challenge
 At the time of the CSC’s formation, the organization faced several systemic performance barriers:
 
-• Average non-conformance disposition turnaround time (TAT): 60 days  
-• Backlog of components awaiting engineering disposition: approximately 120 parts  
+• Average non-conformance disposition turnaround time (TAT) was extended  
+• Backlog of components awaiting engineering disposition  
 • Engineering decisions were largely experience-driven rather than strategy-driven  
 • Inconsistent inspection rejection criteria created unnecessary engineering workload  
 • Rework existed across inspection, engineering, and technical reporting processes  
 • Limited data visibility prevented proactive performance management  
 • Engineering decisions were not consistently aligned with customer or business strategy  
 
-Although a scrap rate of approximately 10% was typical for aerospace MRO, opportunities existed to improve yield, efficiency, and customer responsiveness.
+Although an average scrap rate existed, there were opportunities to improve yield, along with efficiency and customer responsiveness.
 
 ---
 
@@ -74,7 +74,7 @@ I reframed the CSC as both a technical and cultural transformation initiative gu
 I partnered with inspection leadership and technical experts to:
 
 • Define consistent escalation criteria for legitimate non-conformance findings  
-• Identify minor, repeatable conditions that did not require rejection  
+• Identify repeatable conditions that could be dispositioned through standardized guidance rather than escalation 
 • Align inspection and engineering practices with customer expectations and industry standards  
 
 #### Impact
@@ -89,7 +89,7 @@ I collaborated with sales leadership, executive management, and customers to:
 
 • Define customer-specific service priorities  
 • Develop disposition decision frameworks aligned with turnaround time, yield, and service expectations  
-• Establish clear guidance for Material Review Board escalation  
+• Establish clear guidance for engineering escalation  
 
 This work directly connected engineering decisions to competitive business outcomes.
 
@@ -118,7 +118,7 @@ To replace reactive decision-making, I developed statistical monitoring tools in
 #### Impact
 • Enabled proactive engineering strategy adjustments  
 • Strengthened collaboration with OEM engineering organizations  
-• Influenced repair development inclusion into engine manuals  
+• Supported OEM repair development efforts through reliability and trend data insights  
 • Reduced long-term disposition turnaround time  
 
 ---
@@ -126,7 +126,7 @@ To replace reactive decision-making, I developed statistical monitoring tools in
 ### Continuous Improvement: Creating Engineering Knowledge Acceleration Tools
 To eliminate repetitive research across similar non-conformance cases, I developed:
 
-• Engineering “History Documents” summarizing prior approvals, technical risk factors, and likely outcomes  
+• Developed engineering knowledge-capture and decision-support tools summarizing prior technical outcomes and risk considerations  
 • Quick-reference decision tools that improved disposition speed and quality  
 • Inspection guidance to avoid unnecessary labor investment in parts likely to be scrapped  
 
@@ -180,3 +180,7 @@ This initiative reinforced several core leadership beliefs:
 • Data visibility transforms organizational performance  
 • Culture, clarity, and trust act as force multipliers within engineering organizations  
 • Leadership growth requires self-reflection, humility, and willingness to change  
+
+---
+
+Details are intentionally generalized to protect proprietary, customer, and export-controlled information.
