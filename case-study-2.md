@@ -106,7 +106,7 @@ Repetitive damage patterns caused inefficiencies in non-conformance evaluation a
 #### Approach:
 - Designed and implemented a statistical process monitoring system to categorize damage by feature, severity, and frequency.
 - Guided the team in analyzing mechanical causes and prioritizing inspection and repair efforts.
-- Used data to collaborate with engineers and support development of repair solutions for review by the OEM commercial leaders.
+- Used data to collaborate with engineers and support development of repair solutions for review by customer and certification stakeholders.
 
 #### Outcome:
 - Supported development and approval of multiple repair methods, including one blend repair affecting 20% of cases for a high-volume product line.
