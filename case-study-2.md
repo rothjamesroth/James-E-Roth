@@ -114,6 +114,8 @@ Repetitive damage patterns caused inefficiencies in non-conformance evaluation a
 
 ---
 
+## Summary
+
 - **Technical Expertise:** Applied mechanical engineering principles, stress/strength evaluation, and geometric analysis to complex turbine components.
 - **Process Improvement:** Redesigned repair workflows and processes to improve quality, efficiency, and compliance.
 - **Measurable Impact:** Reduced scrap, mitigated operational risk, and improved turnaround time.
