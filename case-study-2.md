@@ -23,7 +23,7 @@ Repetitive wear on the nozzle support was not defined in existing repair guidanc
 #### Approach:
 - Researched similar product lines for geometric, material, and functional equivalence.
 - Analyzed the typical condition, structural integrity, stiffness, and assembly impact to support a limit proposal.
-- Presented analysis to customer engineering and design authority representatives for review.
+- Presented analysis to customer and design authority representatives for review.
 
 #### Outcome:
 - Supported development and approval of revised service limits and repair methodology for nozzle support rail wear.
