@@ -6,7 +6,7 @@ permalink: /
 ---
 <!-- PE Stamp in Top Right -->
 <div style="position: relative;">
-  <img src="images/pe-stamp.png" alt="Professional Engineer Stamp" style="position: absolute; top: 20px; right: 20px; width: 150px; height: auto;">
+  <img src="images/pe-stamp.png" alt="Professional Engineer Stamp" style="position: absolute; top: 20px; right: 20px; width: 190px; height: auto;">
 </div>
 
 <style>
