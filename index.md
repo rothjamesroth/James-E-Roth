@@ -2,6 +2,7 @@
 
 layout: home
 title: James E. Roth | PE | MBA
+title: Technical-Commercial Leader
 permalink: /
 ---
 <!-- PE Stamp in Top Right -->
