@@ -3,7 +3,7 @@ layout: home
 title: "Technical Accomplishments — James E. Roth | PE | MBA"
 ---
 
-# Technical Case Study: Engineering Solutions for Turbine Component Non-Conformances
+# Technical Case Study: Engineering Solutions for Gas Turbine Components
 
 ## Overview
 
