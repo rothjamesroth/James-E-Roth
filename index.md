@@ -38,7 +38,7 @@ I bring technical rigor, structured problem-solving, and operational accountabil
 
 I bring a balanced combination of technical depth, strategic thinking, and leadership execution developed through solving complex engineering and operational challenges.
 
-My work demonstrates the ability to translate high-level objectives into practical, measurable results while maintaining strong collaboration across engineering, manufacturing, and business stakeholders.
+My work demonstrates the ability to translate high-level objectives into practical, measurable results while maintaining strong collaboration between engineering teams, operations, and business stakeholders.
 
 ### Leadership
 My leadership experience highlights my ability to build alignment, empower teams, and drive sustainable organizational improvements.  
