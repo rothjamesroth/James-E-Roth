@@ -26,15 +26,11 @@ Unlocking potential. Turning intention into meaningful achievement.
 
 ---
 
-## Execution
+## Bridging Commercial Strategy With Technical Execution
 
-I bring purpose to action by combining deep technical expertise with situational leadership and a people-first mindset. This allows me to guide projects, solve complex challenges, and empower teams to deliver sustainable and exceptional results. 
+I specialize in translating complex technical challenges into disciplined, commercially aligned execution. As a licensed Professional Engineer with business training, I operate at the intersection of engineering depth and strategic decision-making.
 
----
-
-## About Me
-
-I enjoy solving complex challenges, using technical expertise and business acumen to bridge the gap between business strategy and technical execution. 
+I bring technical rigor, structured problem-solving, and operational accountability to every initiative, while leading with a situational, people-first approach. By aligning engineering, operations, and commercial priorities, I help teams move from analysis to action, delivering sustainable results without compromising technical integrity. 
 
 ---
 
